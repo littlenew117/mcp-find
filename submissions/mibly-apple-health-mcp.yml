@@ -1,0 +1,6 @@
+servers:
+  - name: "Mibly – Apple Health MCP"
+    github_url: "https://github.com/littlenew117/mibly-apple-health-mcp"
+    package_name: "mibly-apple-health-mcp"
+    description: "Connect Apple Health to AI agents via MCP. Access sleep, steps, heart rate, HRV, workouts, and more through a privacy-focused, self-hosted server."
+    category: "ai-ml"
